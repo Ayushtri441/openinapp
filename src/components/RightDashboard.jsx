@@ -355,7 +355,7 @@ const HomeFeatures = () => {
                 </p>
                 <p className={styles.details}> 
                   <span style={{marginRight:"75px"}}><Iconemail/>john@xyz.com</span>
-                  <span ><Iconemail/>john_official</span>
+                  <span ><Iconyoutube/>john_official</span>
                 </p>
           </div>
         </div>
